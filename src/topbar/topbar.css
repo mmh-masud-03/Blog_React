@@ -1,0 +1,44 @@
+.nav{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-between;
+    position: sticky;
+    top:0;
+    z-index: 999;
+    overflow: hidden;
+    background: white;
+  }
+  .blog{
+    font-size: 30px;
+    text-align: left;
+    font-weight: bold;
+    max-width: 20%;
+    margin: 1rem;
+  }
+  .topnav {
+    background-color:white;
+        overflow: hidden;
+        position: sticky;
+        
+      }
+      .top-list{
+        display: flex;
+        flex-direction: row;
+        text-decoration: none;
+        text-transform: inherit;
+        color: black;
+        list-style: none;
+      }
+
+      .list-items{
+        font-size: 20px;
+        text-decoration: none;
+        text-transform: inherit;
+        padding: 20px;
+        color: black;
+      }
+   
+
+     
+   

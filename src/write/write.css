@@ -1,0 +1,34 @@
+/* .write{
+    min-width: 60%;
+} */
+.writeForm{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.writeFormGroup{
+    border: 5px;
+    border-color: green;
+    margin-bottom: 15px;
+    
+}
+.write-title{
+    width: 500px;
+    height: 20px;
+    padding: 10px;
+    
+}
+.write-description{
+    width: 500px;
+    height: 200px;
+    padding: 10px;
+}
+.writeSubmit{
+ background: green;
+ font-size: 20px;
+ cursor: pointer;
+ justify-items: flex-end;
+ margin-top: 20px;
+ 
+ 
+}
